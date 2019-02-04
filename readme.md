@@ -7,6 +7,8 @@ You can use Google's Youtube API v3 for getting live subscriber count based on C
 ## Requirements:
 * The site should show the live subscriber count of PewDiePie and T-Series
 
+* The subcount should refresh every two seconds (or less)
+
 * The site should be playing the song - [Bitch Lasagna (Party In Backyard)](https://www.youtube.com/watch?v=6Dh-RL__uN4). There should be a mute button for it as well.
 
 * The difference in subscriber count between the two channels should be displayed.
